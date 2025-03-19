@@ -27,9 +27,15 @@ header {
 }
 
 .logo-img {
-    width: 50px;
+    width: 50px; /* Main logo size */
     height: auto;
     margin-right: 10px;
+}
+
+.small-logo {
+    width: 30px; /* Small logo size */
+    height: auto;
+    margin-right: 5px;
 }
 
 .logo span {
